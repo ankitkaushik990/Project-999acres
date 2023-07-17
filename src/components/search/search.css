@@ -1,0 +1,42 @@
+@import url("https://fonts.googleapis.com/css2?family=Fasthand&family=Jost:ital,wght@0,100;0,200;0,300;0,400;0,500;1,100;1,200;1,300;1,400;1,500&family=Lato:wght@300&family=Open+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600&display=swap");
+
+* {
+  font-family: "Open Sans";
+  font-weight: 700;
+}
+
+.searchcontainer {
+  margin: 0 auto;
+  width: 60%;
+  background-color: #f4f5f7;
+  color: black;
+  border-radius: 10px;
+  position: relative;
+  bottom: 75px;
+  height: 160px;
+}
+.types {
+  display: flex;
+  justify-content: space-around;
+  height: 73px;
+}
+.typeoption {
+  padding: 1em;
+}
+.searchcontainerline {
+  display: flex;
+  justify-content: space-around;
+  padding: 1em;
+  border-top: 2px solid gray;
+}
+input {
+  width: 40em;
+  height: 2em;
+}
+.searchButton {
+  background-color: #006ac2;
+  border-radius: 5px;
+  color: white;
+  width: 80px;
+  height: 45px;
+}

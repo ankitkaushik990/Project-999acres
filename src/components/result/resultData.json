@@ -1,0 +1,23 @@
+[
+  {
+    "imgSrc": "https://mediacdn.99acres.com/media1/19153/17/383077982M-1663735426525.jpg",
+    "description": "Lorem ipsum dolor sit ametonsectetur adipisicing elit. Distinctio",
+    "price": "3.7 CR",
+    "area": "3600 Sq.feet",
+    "flatType": "3 BHK"
+  },
+  {
+    "imgSrc": "https://newprojects.99acres.com/projects/dlf_homes/dlf_the_arbour/images/45vzn3ex_med.jpg",
+    "description": "Another item description",
+    "price": "8 CR",
+    "area": "3000 Sq.feet",
+    "flatType": "3 BHK"
+  },
+  {
+    "imgSrc": "https://img.freepik.com/premium-photo/modern-corporate-architecture-can-be-seen-cityscape-office-buildings_410516-276.jpg",
+    "description": "Another item description",
+    "price": "60000 CR",
+    "area": "3lakj Sq.feet",
+    "flatType": "1000 BHK"
+  }
+]

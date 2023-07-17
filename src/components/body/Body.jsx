@@ -10,10 +10,10 @@ function Body() {
         <img src={bg} alt="bgimg" className="image" />
       </div>
 
-      <div class="n">
+      {/* <div class="n">
         <div class="inner_div"></div>
         <div class="inner_2nd_div"></div>
-      </div>
+      </div> */}
     </>
   );
 }
