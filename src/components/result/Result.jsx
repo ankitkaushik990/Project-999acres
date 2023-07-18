@@ -7,17 +7,17 @@ function Result() {
   return (
     <>
       <div className="result">
-        <div className="navbar_flex">
-          <div className="start_nav flex">
+        <div className="navbar__wrapper">
+          <div className="navbar__start_nav">
             <img src={logo} className="result_nav_img" alt="Logo" />
-          </div>
-          <div className="search_container">
-            <input
-              type="text"
-              placeholder="Search..."
-              className="search_input"
-            />
-            <button className="search_button">Search</button>
+            <div className="search_container">
+              <input
+                type="text"
+                placeholder="Search..."
+                className="search_input"
+              />
+              <button className="search_button">Search</button>
+            </div>
           </div>
           <div className="navbar__whitediv">Post Property</div>
         </div>
